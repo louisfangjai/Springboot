@@ -1,0 +1,9 @@
+server:
+  port: 8085
+
+api:
+  jsonplacefolder:
+    domain: 'jsonplaceholder.typicode.com'
+    endpoints:
+      user: '/users'
+      
